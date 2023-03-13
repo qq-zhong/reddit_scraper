@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .json
 .DS_Store
-.o 
-.out
+*.o
+*.out
+hellworld
